@@ -1,2 +1,2 @@
-streamlit-nightly
+streamlit>=1.56.0
 webvtt-py
